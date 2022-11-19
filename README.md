@@ -2,5 +2,5 @@
 This project was completed as part of the AI200: Applied Machine Learning course held by Heicoders Academy (Professional).
 This project has emerged as the 1st runner up in the in-class Kaggle competition (linke below).
 
-Team Name: Goh Learn
+Team Name: Goh Learn</br>
 https://www.kaggle.com/competitions/ai200-may22-lendingclub-loan-default/leaderboard)
